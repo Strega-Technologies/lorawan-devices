@@ -6,3 +6,4 @@ endDevices:
   - smart-emitter
   - smart-switch
   - motorized-valve
+  - gen-2-actuator
